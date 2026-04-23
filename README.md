@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1218531080.svg)](https://doi.org/10.5281/zenodo.19702421)
+
 # Julian Carry Dynamics: Part I — The Theory of Recurstable Numbers
 ## How Terminal Stability Shapes Leading Behavior in Power Sequences
 
